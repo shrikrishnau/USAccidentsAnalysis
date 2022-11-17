@@ -7,8 +7,8 @@ The accident data of United States of America has to be sourced from web, cleane
 
 
 ## About the data set
-The dataset was sourced from Kaggle.
-This dataset contains data from 49 states excluding Alaska(AK).
+* The dataset was sourced from Kaggle.
+* This dataset contains data from 49 states excluding Alaska(AK).
 
 
 ## Overall Analysis View
@@ -20,13 +20,13 @@ The aim of this project is to find the major reasons for accidents and come up w
 * Matplotlib
 * Folium
 
-### Top Cities in the US based on number of accidents
+### Top Cities in the US based on number of accidents:
 <p align="center">
  <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/TopCitiesByAccident.JPG?raw=true' width="600">
 
 </p>
 
-### Heatmap depicting the places where most accidents occur
+### Heatmap depicting the places where most accidents occur:
 
 <p align="center">
 <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/accidents%20heatmap.JPG?raw=true' width="600">
@@ -36,7 +36,7 @@ The aim of this project is to find the major reasons for accidents and come up w
 
 ## Things learnt from this Project 
 * Learnt to build different types of plot with data.
-* Got introduced to Folium for making a heatmap
+* Got introduced to Folium for making a heatmap.
 
 ## Some Important insights from the Analysis
 
@@ -45,8 +45,18 @@ The aim of this project is to find the major reasons for accidents and come up w
 * Less that 5% of Cities reported the total number of accidents greater than 1000.
 * About 1110 cities have reported only 1 case of an accident.
 * The higher number of accidents occur during the winter months which not necessarily mean that more accidents occur during cold weather, but the fact that more people are out on the streets as December is Christmas month and people go shopping a lot.
-* Top 5 cities in terms of number of accidents Miami 106966 Los Angeles 68956 Orlando 54691 Dallas 41979 Houston 39448
-* Top 5 States in terms of number of accidents CA 795868 FL 401388 TX 149037 OR 126341 VA 113535
+* Top 5 cities in terms of number of accidents 
+   * Miami 106966 
+   * Los Angeles 68956 
+   * Orlando 54691 
+   * Dallas 41979 
+   * Houston 39448
+* Top 5 States in terms of number of accidents 
+   * CA 795868 
+   * FL 401388 
+   * TX 149037 
+   * OR 126341 
+   * VA 113535
 * The states with most number of accidents correspondingly also rank in the top states by count of population.
 * New York despite having a high population has a considerably low count of accidents.
 * A high percentage of accidents occur between 2 P.M and 6 P.M.
