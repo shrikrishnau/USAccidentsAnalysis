@@ -13,7 +13,7 @@ The accident data of United States of America has to be sourced from web, cleane
 
 
 ## About the data set
-* The dataset was sourced from Kaggle.
+* The dataset was sourced from Kaggle [US Accidents Data](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
 * This dataset contains data from 49 states excluding Alaska(AK).
 
 
