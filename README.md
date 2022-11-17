@@ -96,7 +96,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 49
 ​
-50
+
 ## Learnt things from this Project 
 51
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
@@ -108,7 +108,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Tried using color palette and stick with that colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/06113cff8c32ddddddeeeeee))
 55
 ​
-56
+
 ## Some Important insights from the Dashboard
 57
 ​
