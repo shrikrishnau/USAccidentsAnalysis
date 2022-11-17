@@ -3,7 +3,7 @@
 
   
  <p align="center">
-<img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/traffic.jpg?raw=true' width="900", height="500">
+<img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/traffic.jpg?raw=true' width="900">
 
 </p> 
   
