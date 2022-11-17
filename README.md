@@ -15,10 +15,10 @@ This dataset contains data from 49 states excluding Alaska(AK).
 The aim of this project is to find the major reasons for accidents and come up with meaningful suggestions to avoid them.
 
 ## Libraries Used
-Pandas
-Seaborn
-Matplotlib
-Folium
+* Pandas
+* Seaborn
+* Matplotlib
+* Folium
 
 ### Top Cities in the US based on number of accidents
 <p align="center">
@@ -40,19 +40,19 @@ Got introduced to Folium for making a heatmap
 
 ## Some Important insights from the Analysis
 
-1)No Data for Alaska.
-2)Number of accidents per city decreases exponentially.
-3)Less that 5% of Cities reported the total number of accidents greater than 1000.
-4)About 1110 cities have reported only 1 case of an accident.
-5)The higher number of accidents occur during the winter months which not necessarily mean that more accidents occur during cold weather, but the fact that more people are out on the streets as December is Christmas month and people go shopping a lot.
-6)Top 5 cities in terms of number of accidents Miami 106966 Los Angeles 68956 Orlando 54691 Dallas 41979 Houston 39448
-7)Top 5 States in terms of number of accidents CA 795868 FL 401388 TX 149037 OR 126341 VA 113535
-8)The states with most number of accidents correspondingly also rank in the top states by count of population.
-9)New York despite having a high population has a considerably low count of accidents.
-10)A high percentage of accidents occur between 2 P.M and 6 P.M.
-11)Chance of accidents happening during weekdays is higher than during weekends.
-12)Winter months have more accident count.
-13)There has been a gradual increase in the number of accidents over the year which can be attributed to increase in number of vehicles on the streets.
+* No Data for Alaska.
+* Number of accidents per city decreases exponentially.
+* Less that 5% of Cities reported the total number of accidents greater than 1000.
+* About 1110 cities have reported only 1 case of an accident.
+* The higher number of accidents occur during the winter months which not necessarily mean that more accidents occur during cold weather, but the fact that more people are out on the streets as December is Christmas month and people go shopping a lot.
+* Top 5 cities in terms of number of accidents Miami 106966 Los Angeles 68956 Orlando 54691 Dallas 41979 Houston 39448
+* Top 5 States in terms of number of accidents CA 795868 FL 401388 TX 149037 OR 126341 VA 113535
+* The states with most number of accidents correspondingly also rank in the top states by count of population.
+* New York despite having a high population has a considerably low count of accidents.
+* A high percentage of accidents occur between 2 P.M and 6 P.M.
+* Chance of accidents happening during weekdays is higher than during weekends.
+* Winter months have more accident count.
+* There has been a gradual increase in the number of accidents over the year which can be attributed to increase in number of vehicles on the streets.
 
 
 ## Acknowledgments
@@ -61,6 +61,6 @@ Got introduced to Folium for making a heatmap
 
 2)The data set is duly credited to
 
-   Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+  * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
-   Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019
+  * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019
