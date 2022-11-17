@@ -1,78 +1,16 @@
-1
-# AtliQ Hospitality Analysis - PowerBI
-2
-​
-3
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
-4
-​
-5
-Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
-6
-​
-7
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-8
-​
-9
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
-10
-​
-11
+
+# US Accidents Analysis (2016-2021)
+
+## About the data set
+The aim of this project is to find the major reasons for accidents and come up with meaningful suggestions to avoid them.
+
 ## Problem statement
-12
-​
-13
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
-14
-​
-15
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
-16
-​
-17
-### Task List
-18
-​
-19
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
-20
-​
-21
-- Create the metrics according to the metric list. 
-22
-- Create a dashboard according to the mock-up provided by stakeholders. 
-23
-- Create relevant insights that are not provided in the metric list/mock-up dashboard.
-24
-​
-25
-## Provided Mock-up Dashboard
-26
-<p align="center">
-27
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
-28
-</p>
-29
-​
-30
-​
-31
-## Data Model
-32
-​
-33
-<p align="center">
-34
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
-35
-</p>
-36
-​
-37
-​
-38
+
+The dataset was sourced from Kaggle.
+
+This dataset contains data from 49 states excluding Alaska(AK)
+
+
 ## Overall Analysis View
 39
 ​
@@ -126,35 +64,3 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ lost around 298 Million in cancellation 
 64
 - Elite type rooms has the most booking and as well higher cancellation rate
-65
-​
-66
-​
-67
-​
-68
-​
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
-@shrikrishnau
-Propose changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
- 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
