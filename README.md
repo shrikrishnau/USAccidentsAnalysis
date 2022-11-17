@@ -35,8 +35,8 @@ The aim of this project is to find the major reasons for accidents and come up w
 
 
 ## Things learnt from this Project 
-Learnt to build different types of plot with data.
-Got introduced to Folium for making a heatmap
+* Learnt to build different types of plot with data.
+* Got introduced to Folium for making a heatmap
 
 ## Some Important insights from the Analysis
 
