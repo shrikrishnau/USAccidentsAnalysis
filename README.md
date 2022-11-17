@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@shrikrishnau 
-Naveen-S6
-/
-AtliQ_Hospitality_Analysis_PowerBI
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-AtliQ_Hospitality_Analysis_PowerBI
-/
-README.md
-in
-Naveen-S6:main
- 
-
-Spaces
-
-4
-
-Soft wrap
 1
 # AtliQ Hospitality Analysis - PowerBI
 2
