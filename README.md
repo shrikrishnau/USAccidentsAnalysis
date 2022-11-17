@@ -22,16 +22,14 @@ Folium
 
 ### Top Cities in the US based on number of accidents
 <p align="center">
-
-    <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/TopCitiesByAccident.JPG?raw=true' width="600">
+ <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/TopCitiesByAccident.JPG?raw=true' width="600">
 
 </p>
 
 ### Heatmap depicting the places where most accidents occur
 
 <p align="center">
-
-    <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/accidents%20heatmap.JPG?raw=true' width="600">
+<img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/accidents%20heatmap.JPG?raw=true' width="600">
 
 </p>
 
@@ -63,6 +61,6 @@ Got introduced to Folium for making a heatmap
 
 2)The data set is duly credited to
 
-    Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+   Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
-    Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019
+   Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019
