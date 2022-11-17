@@ -57,9 +57,9 @@ Got introduced to Folium for making a heatmap
 
 ## Acknowledgments
 
-1)This project is mostly guided by Jovian and their youtube video titled, “Build an Exploratory Data Analysis Project from Scratch | Step-by-Step Guide”
+1) This project is mostly guided by Jovian and their youtube video titled, “Build an Exploratory Data Analysis Project from Scratch | Step-by-Step Guide”
 
-2)The data set is duly credited to
+2) The data set is duly credited to
 
   * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
