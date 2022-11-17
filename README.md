@@ -1,6 +1,12 @@
 
 # US Accidents Analysis (2016-2021)
 
+  
+ <p align="center">
+<img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/traffic.jpg?raw=true' width="900">
+
+</p> 
+  
 
 ## Problem statement
 The accident data of United States of America has to be sourced from web, cleaned and analysed using Python. Produce your insights from the data after analysis like top cities with most accidents, correlation with population.
@@ -76,10 +82,5 @@ The aim of this project is to find the major reasons for accidents and come up w
   * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019
   
   
-  
- <p align="center">
-<img src='https://github.com/shrikrishnau/Portfolio/blob/main/images/traffic.jpg?raw=true' width="1000">
 
-</p> 
-  
 
