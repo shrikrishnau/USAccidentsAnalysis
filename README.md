@@ -32,14 +32,14 @@ The aim of this project is to find the major reasons for accidents and come up w
 
 
 ### Top Cities in the US based on number of accidents:
-<p align="center">
+<p align="left">
  <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/TopCitiesByAccident.JPG?raw=true' width="600">
 
 </p>
 
 ### Heatmap depicting the places where most accidents occur:
 
-<p align="center">
+<p align="left">
 <img src='https://github.com/shrikrishnau/US_Accidents_Analysis/blob/main/US%20Accidents/accidents%20heatmap.JPG?raw=true' width="600">
 
 </p>
